@@ -10,8 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ilovepdf/ilovepdf-nodejs": "^0.2.5",
+    "cheerio": "^1.0.0-rc.12",
+    "chromiumly": "^2.8.0",
+    "docx-pdf": "^0.0.1",
     "docx-templates": "^4.11.4",
+    "dotenv": "^16.4.5",
     "libreoffice-convert": "^1.5.1",
+    "tslib": "^2.6.2",
+    "word2pdf": "^0.0.1-security",
+    "word2pdf-promises": "^1.2.0",
     "xhr2": "^0.2.1"
   }
 }
