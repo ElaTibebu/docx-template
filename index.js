@@ -45,6 +45,7 @@ async function main() {
     await PDFMerge(files, { output: `bid.pdf` });
   }, 15000);
 }
+
 async function convertCoverPage(){
   const html = `<html>
     <head>
